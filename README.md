@@ -1,3 +1,3 @@
-# ML-House-price-prediction
+# ML-Property-valuation
 
 Using sklearn datasets
