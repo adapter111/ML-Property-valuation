@@ -1,4 +1,3 @@
-# ML-Property-valuation
 
 # California Housing Price Prediction using PyTorch
 
